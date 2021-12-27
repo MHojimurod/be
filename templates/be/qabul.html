@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+{% load static %}
+{% load i18n %}
+<html lang="en">    
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Qabul</title>
+
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
+    
+     <!-- =============== Bootstrap Core CSS =============== -->
+     <link rel="stylesheet" href="{% static 'assets/css/bootstrap.min.css' %}" type="text/css">
+
+     <link rel="stylesheet" href="{% static 'assets/css/style.css' %}">
+</head>
+
+<body>
+    <main class="qabul">
+        <div class="container">
+            <div class="row">
+                <button class="backhistory" onclick="history.back()"><i class="fas fa-arrow-left"></i>{% trans 'BACK' %}</button>
+                <h2>{% trans 'REG' %}</h2>
+                <div class="info__qabul">
+                    <p>         {% trans "ABOUT_ME" %}</p>
+                    <img src="/static/assets/img/test111.jpg" alt="">
+
+                </div>
+                <form method="get" >
+                    <div class="qabul__input">
+                        <input type="text" name="name" placeholder="{% trans 'USER_NAME' %}" required>
+                        <input type="text" name="surname" required placeholder="{% trans 'USER_SURNAME' %}">
+                        <input type="number" name="phone" required placeholder="{% trans 'USER_PHONE' %}">
+                        <input type="email" name="email"  placeholder="{% trans 'USER_EMAIL' %}">
+                        <input type="date" name="date" required>
+                        <select name="time">
+                            <option value="12:00">12:00</option>
+                            <option value="13:00">13:00</option>
+                            <option value="14:00">14:00</option>
+                        </select>
+                        <textarea name="msg" placeholder="{% trans 'USER_MESSAGE' %}" required name="" id="" cols="30" rows="8"></textarea>
+                        
+                    </div>
+                    <input type="submit" value="{%trans 'SEND' %}" class="sendbutton qabulbtn">
+                </form>
+            </div>
+        </div>
+    </main>
+</body>
+
+</html>
