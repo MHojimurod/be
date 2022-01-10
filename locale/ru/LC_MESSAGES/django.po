@@ -46,7 +46,7 @@ msgstr "Работать"
 
 #: .\templates\be\index.html:60
 msgid "EXTRA_NAV"
-msgstr ""
+msgstr "Галарея"
 
 #: .\templates\be\index.html:63 .\templates\be\index.html:367
 msgid "Contact"
