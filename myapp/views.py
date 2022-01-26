@@ -2,6 +2,13 @@ from django.shortcuts import redirect, render
 from .models import Qabul
 # Create your views here.
 def home(request):
+    if request.method == "GET":
+        req = request.GET
+        name = req.get("name")
+        email = req.get("email")
+        desc = req.get("description")
+        if name and email and desc:
+            print(name, email, desc)
     return render(request,'be/index.html')
 
 

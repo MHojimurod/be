@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-24 11:04+0500\n"
+"POT-Creation-Date: 2022-01-26 16:39+0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -30,42 +30,42 @@ msgstr ""
 msgid "English"
 msgstr ""
 
-#: .\templates\be\index.html:51
+#: .\templates\be\index.html:61
 msgid "Home"
 msgstr "Home"
 
-#: .\templates\be\index.html:54
+#: .\templates\be\index.html:64
 msgid "About"
 msgstr "About us"
 
-#: .\templates\be\index.html:57
+#: .\templates\be\index.html:67
 msgid "Service"
 msgstr "Works"
 
-#: .\templates\be\index.html:60
+#: .\templates\be\index.html:70
 msgid "EXTRA_NAV"
 msgstr "Gallery"
 
-#: .\templates\be\index.html:63 .\templates\be\index.html:367
+#: .\templates\be\index.html:73 .\templates\be\index.html:390
 msgid "Contact"
 msgstr "Contact"
 
-#: .\templates\be\index.html:102 .\templates\be\index.html:118
+#: .\templates\be\index.html:112 .\templates\be\index.html:128
 msgid "name"
 msgstr "Ilkhom Begimkulov"
 
-#: .\templates\be\index.html:103
+#: .\templates\be\index.html:113
 msgid "Head_Text"
 msgstr ""
 "If a young businessman wants to know about his life path, his connections in "
 "business and his mistakes. If you want to know about the mistakes and "
 "disadvantages of starting a business, we are waiting for you."
 
-#: .\templates\be\index.html:104
+#: .\templates\be\index.html:114
 msgid "Register"
 msgstr "Register"
 
-#: .\templates\be\index.html:121
+#: .\templates\be\index.html:131
 msgid "AUTOBIOGRAPHY"
 msgstr ""
 "Ilkhom Begimkulov was born on October 10, 1987 in Bekabad district of "
@@ -81,160 +81,170 @@ msgstr ""
 "the young businessman has started more than 10 business projects and employs "
 "more than 200 people."
 
-#: .\templates\be\index.html:135
+#: .\templates\be\index.html:145
 msgid "TEACHERS"
 msgstr "Business Coaches"
 
-#: .\templates\be\index.html:136
+#: .\templates\be\index.html:146
 msgid "TEACHERS_TEXT"
 msgstr "Uzbekistan is one of the most famous businessmen in Central Asia"
 
-#: .\templates\be\index.html:141
+#: .\templates\be\index.html:151
 msgid "NAME_1"
 msgstr "Saidmurod Davlatov"
 
-#: .\templates\be\index.html:142
+#: .\templates\be\index.html:152
 msgid "NAME_1_TEXT"
 msgstr "Business Coach"
 
-#: .\templates\be\index.html:154
+#: .\templates\be\index.html:164
 msgid "NAME_2"
 msgstr "Ibrahim Gulyamov"
 
-#: .\templates\be\index.html:155
+#: .\templates\be\index.html:165
 msgid "NAME_2_TEXT"
 msgstr "Business Partner"
 
-#: .\templates\be\index.html:167
+#: .\templates\be\index.html:177
 msgid "NAME_3"
 msgstr "Akbar Avezov"
 
-#: .\templates\be\index.html:168
+#: .\templates\be\index.html:178
 msgid "NAME_3_TEXT"
 msgstr "Business Partner"
 
-#: .\templates\be\index.html:180
+#: .\templates\be\index.html:190
 msgid "NAME_4"
 msgstr "Name 4"
 
-#: .\templates\be\index.html:181
+#: .\templates\be\index.html:191
 msgid "NAME_4_TEXT"
 msgstr "Name 4 text"
 
-#: .\templates\be\index.html:199
+#: .\templates\be\index.html:209
 msgid "OUR_WORKS"
 msgstr "OUR PROJECTS"
 
-#: .\templates\be\index.html:200
+#: .\templates\be\index.html:210
 msgid "WORK_TEXT"
 msgstr "The results of our achievements as a businessman so far."
 
-#: .\templates\be\index.html:209
+#: .\templates\be\index.html:219
 msgid "WORK_1"
 msgstr ""
 "Asia Consult Company will be operating from 2018! By 2021, we have lucky "
 "enough to have more than 10,000 entrants become students!"
 
-#: .\templates\be\index.html:210 .\templates\be\index.html:221
-#: .\templates\be\index.html:232
+#: .\templates\be\index.html:220 .\templates\be\index.html:231
+#: .\templates\be\index.html:242
 msgid "MORE"
 msgstr "READ MORE"
 
-#: .\templates\be\index.html:220
+#: .\templates\be\index.html:230
 msgid "WORK_2"
 msgstr ""
 "Zetline group -Gives you offers that no one else can give you. With you "
 "there is an opportunity to learn a new profession modern professions in a "
 "month."
 
-#: .\templates\be\index.html:231
+#: .\templates\be\index.html:241
 msgid "WORK_3"
 msgstr ""
 "Work and Travel is a great opportunity for students! They have the "
 "opportunity to work and travel during the summer holidays! Allowed for "
 "students over 18!"
 
-#: .\templates\be\index.html:254
-msgid "CARD_1"
-msgstr "Lorem ispum"
-
-#: .\templates\be\index.html:255
-msgid "CARD_1_TEXT"
-msgstr "Lorem ipsum dolor sit amet consectetur adipiscing elit. Vestibulum ac vehicula leo"
-
-#: .\templates\be\index.html:270
-msgid "CARD_2"
-msgstr "Lorem ipsum"
-
-#: .\templates\be\index.html:271
-msgid "CARD_2_TEXT"
-msgstr "Lorem ipsum dolor sit amet consectetur adipiscing elit. Vestibulum ac vehicula leo"
-
-#: .\templates\be\index.html:286
-msgid "CARD_3"
-msgstr "EDUGATWEY"
-
-#: .\templates\be\index.html:287
-msgid "CARD_3_TEXT"
-msgstr "Lorem ipsum dolor sit amet consectetur adipiscing elit. Vestibulum ac vehicula leo"
-
-#: .\templates\be\index.html:302
+#: .\templates\be\index.html:264
 msgid "CARD_4"
 msgstr "Bitrix 24"
 
-#: .\templates\be\index.html:303
+#: .\templates\be\index.html:265
 msgid "CARD_4_TEXT"
 msgstr "UGP Group is a Bitrix 24 project used to automate this business"
 
-#: .\templates\be\index.html:317
+#: .\templates\be\index.html:281
+msgid "CARD_3"
+msgstr "EDUGATWEY"
+
+#: .\templates\be\index.html:282
+msgid "CARD_3_TEXT"
+msgstr ""
+"Lorem ipsum dolor sit amet consectetur adipiscing elit. Vestibulum ac "
+"vehicula leo"
+
+#: .\templates\be\index.html:297
+msgid "CARD_1"
+msgstr "Lorem ispum"
+
+#: .\templates\be\index.html:298
+msgid "CARD_1_TEXT"
+msgstr ""
+"Lorem ipsum dolor sit amet consectetur adipiscing elit. Vestibulum ac "
+"vehicula leo"
+
+#: .\templates\be\index.html:313
+msgid "CARD_2"
+msgstr "Lorem ipsum"
+
+#: .\templates\be\index.html:314
+msgid "CARD_2_TEXT"
+msgstr ""
+"Lorem ipsum dolor sit amet consectetur adipiscing elit. Vestibulum ac "
+"vehicula leo"
+
+#: .\templates\be\index.html:328
 msgid "SUCCESS"
 msgstr "OUR SUCCESS IN BUSINESS"
 
-#: .\templates\be\index.html:323
+#: .\templates\be\index.html:334
 msgid "WORKK"
 msgstr "Business Projects"
 
-#: .\templates\be\index.html:328
+#: .\templates\be\index.html:339
 msgid "CUSTOMER"
 msgstr "Customers"
 
-#: .\templates\be\index.html:333
+#: .\templates\be\index.html:344
 msgid "INTERNATIONAL_WORKS"
 msgstr "International Projects"
 
-#: .\templates\be\index.html:338
+#: .\templates\be\index.html:349
 msgid "INCOME"
 msgstr "Annual Income"
 
-#: .\templates\be\index.html:368
+#: .\templates\be\index.html:360
+msgid "GALLERY"
+msgstr "Gallery"
+
+#: .\templates\be\index.html:391
 msgid "CONTACT_TEXT"
 msgstr "We are happy to help you."
 
-#: .\templates\be\index.html:379 .\templates\be\qabul.html:33
+#: .\templates\be\index.html:402 .\templates\be\qabul.html:34
 msgid "USER_NAME"
 msgstr "Name"
 
-#: .\templates\be\index.html:385 .\templates\be\qabul.html:36
+#: .\templates\be\index.html:408 .\templates\be\qabul.html:37
 msgid "USER_EMAIL"
 msgstr "Email"
 
-#: .\templates\be\index.html:392 .\templates\be\qabul.html:43
+#: .\templates\be\index.html:415 .\templates\be\qabul.html:44
 msgid "USER_MESSAGE"
 msgstr "Message"
 
-#: .\templates\be\index.html:397 .\templates\be\qabul.html:46
+#: .\templates\be\index.html:420 .\templates\be\qabul.html:47
 msgid "SEND"
 msgstr "Send"
 
-#: .\templates\be\qabul.html:24
+#: .\templates\be\qabul.html:25
 msgid "BACK"
 msgstr "Back"
 
-#: .\templates\be\qabul.html:25
+#: .\templates\be\qabul.html:26
 msgid "REG"
 msgstr "To make an appointment!"
 
-#: .\templates\be\qabul.html:27
+#: .\templates\be\qabul.html:28
 msgid "ABOUT_ME"
 msgstr ""
 "Ilkhom Begimkulov currently employs more than 200 people who own more than "
@@ -242,11 +252,10 @@ msgstr ""
 "experience on how to develop the business you have started, we recommend "
 "that you take a master class from businessman Ilhom Begimkulov."
 
-#: .\templates\be\qabul.html:34
+#: .\templates\be\qabul.html:35
 msgid "USER_SURNAME"
 msgstr "Surname"
 
-#: .\templates\be\qabul.html:35
+#: .\templates\be\qabul.html:36
 msgid "USER_PHONE"
 msgstr "Phone"
-

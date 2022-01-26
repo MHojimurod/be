@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-24 11:04+0500\n"
+"POT-Creation-Date: 2022-01-26 16:39+0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -30,42 +30,42 @@ msgstr ""
 msgid "English"
 msgstr ""
 
-#: .\templates\be\index.html:51
+#: .\templates\be\index.html:61
 msgid "Home"
 msgstr "Asosiy"
 
-#: .\templates\be\index.html:54
+#: .\templates\be\index.html:64
 msgid "About"
 msgstr "Malumot"
 
-#: .\templates\be\index.html:57
+#: .\templates\be\index.html:67
 msgid "Service"
 msgstr "Faoliyat"
 
-#: .\templates\be\index.html:60
+#: .\templates\be\index.html:70
 msgid "EXTRA_NAV"
 msgstr "Galareya"
 
-#: .\templates\be\index.html:63 .\templates\be\index.html:367
+#: .\templates\be\index.html:73 .\templates\be\index.html:390
 msgid "Contact"
 msgstr "Aloqa"
 
-#: .\templates\be\index.html:102 .\templates\be\index.html:118
+#: .\templates\be\index.html:112 .\templates\be\index.html:128
 msgid "name"
 msgstr "Ilxom Begimqulov"
 
-#: .\templates\be\index.html:103
+#: .\templates\be\index.html:113
 msgid "Head_Text"
 msgstr ""
 "Yosh Biznesmen uning hayot yo'llari biznesdagi muvofiqatlari va qilgan "
 "xatolari haqida bilmoqchi bo'lsangiz. Biznes boshlashdagi xato va "
 "kamchiliklari o'rganmoqchimisiz biz sizni kutib qolamiz."
 
-#: .\templates\be\index.html:104
+#: .\templates\be\index.html:114
 msgid "Register"
 msgstr "Qabulga yozilish"
 
-#: .\templates\be\index.html:121
+#: .\templates\be\index.html:131
 msgid "AUTOBIOGRAPHY"
 msgstr ""
 " Ilxom Begimqulov 1987-yil 10-oktabrda Toshkent viloyati Bekobod tumanida "
@@ -81,176 +81,185 @@ msgstr ""
 "biznesmen 10 dan ortiq biznes loyihalarni boshlab 200 dan ortiq xodimni ish "
 "bilan kelmoqda."
 
-#: .\templates\be\index.html:135
+#: .\templates\be\index.html:145
 msgid "TEACHERS"
 msgstr "Biznes Murabbiylar"
 
-#: .\templates\be\index.html:136
+#: .\templates\be\index.html:146
 msgid "TEACHERS_TEXT"
 msgstr "O'zbekistonning qolaversa O'rta Osiyoning eng mashxur biznesmenlari"
 
-#: .\templates\be\index.html:141
+#: .\templates\be\index.html:151
 msgid "NAME_1"
 msgstr "Saidmurod Davlatov"
 
-#: .\templates\be\index.html:142
+#: .\templates\be\index.html:152
 msgid "NAME_1_TEXT"
 msgstr "Biznes Murabbiy"
 
-#: .\templates\be\index.html:154
+#: .\templates\be\index.html:164
 msgid "NAME_2"
 msgstr "Ibrohim Gulyamov"
 
-#: .\templates\be\index.html:155
+#: .\templates\be\index.html:165
 msgid "NAME_2_TEXT"
 msgstr "Biznes Hamkor"
 
-#: .\templates\be\index.html:167
+#: .\templates\be\index.html:177
 msgid "NAME_3"
 msgstr "Akbar Avezov"
 
-#: .\templates\be\index.html:168
+#: .\templates\be\index.html:178
 msgid "NAME_3_TEXT"
 msgstr "Biznes Hamkor"
 
-#: .\templates\be\index.html:180
+#: .\templates\be\index.html:190
 msgid "NAME_4"
 msgstr "Name 4"
 
-#: .\templates\be\index.html:181
+#: .\templates\be\index.html:191
 msgid "NAME_4_TEXT"
 msgstr "Name 4 text"
 
-#: .\templates\be\index.html:199
+#: .\templates\be\index.html:209
 msgid "OUR_WORKS"
 msgstr "BIZNING LOYIHALARIMIZ"
 
-#: .\templates\be\index.html:200
+#: .\templates\be\index.html:210
 msgid "WORK_TEXT"
 msgstr ""
 "Bizning biznesmen sifatida shu vaqtgacha erishgan yutuqlarimizning "
 "natijalari."
 
-#: .\templates\be\index.html:209
+#: .\templates\be\index.html:219
 msgid "WORK_1"
 msgstr ""
 "Asia Consult Kompaniyasi 2018 yıldan beri o'z faoliyatini olib boradi! 2021 "
 "yilga 10.000dan ziyad abiturientlarni talaba bo'lish baxtiga erishtirganmiz!"
 
-#: .\templates\be\index.html:210 .\templates\be\index.html:221
-#: .\templates\be\index.html:232
+#: .\templates\be\index.html:220 .\templates\be\index.html:231
+#: .\templates\be\index.html:242
 msgid "MORE"
 msgstr "BATAFSIL"
 
-#: .\templates\be\index.html:220
+#: .\templates\be\index.html:230
 msgid "WORK_2"
 msgstr ""
 "Zetline group -Sizga xechkim bermaydigan takliflar beradi. Siz bilan "
 "birgalikda bir oyda yangi kasbni zamonaviy kasblarni o'rganish imkoniayti "
 "mavjud."
 
-#: .\templates\be\index.html:231
+#: .\templates\be\index.html:241
 msgid "WORK_3"
 msgstr ""
 "Work and Travel bu talabalar uchun ajoyib imkoniyat! Ular yozgi ta'tilda "
 "ishlab, sayohat qilish imkoniyati mavjud! 18 yoshdan katta talabalar uchun "
 "ruxsat berilgan!"
 
-#: .\templates\be\index.html:254
-msgid "CARD_1"
-msgstr "Lorem ispum"
-
-#: .\templates\be\index.html:255
-
-msgid "CARD_1_TEXT"
-msgstr "Lorem ipsum dolor sit amet consectetur adipiscing elit. Vestibulum ac vehicula leo"
-
-#: .\templates\be\index.html:270
-msgid "CARD_2"
-msgstr "Lorem Ispum"
-
-#: .\templates\be\index.html:271
-msgid "CARD_2_TEXT"
-msgstr "Lorem ipsum dolor sit amet consectetur adipiscing elit. Vestibulum ac vehicula leo"
-
-#: .\templates\be\index.html:286
-msgid "CARD_3"
-msgstr "EDUGATWEY"
-
-#: .\templates\be\index.html:287
-msgid "CARD_3_TEXT"
-msgstr "Lorem ipsum dolor sit amet consectetur adipiscing elit. Vestibulum ac vehicula leo"
-
-#: .\templates\be\index.html:302
+#: .\templates\be\index.html:264
 msgid "CARD_4"
 msgstr "Bitrix 24"
 
-#: .\templates\be\index.html:303
+#: .\templates\be\index.html:265
 msgid "CARD_4_TEXT"
-msgstr "UGP Group bu biznesni avtomatlashtirishda ishlatiladigan Bitrix 24 lohiya"
+msgstr ""
+"UGP Group bu biznesni avtomatlashtirishda ishlatiladigan Bitrix 24 lohiya"
 
-#: .\templates\be\index.html:317
+#: .\templates\be\index.html:281
+msgid "CARD_3"
+msgstr "EDUGATWEY"
+
+#: .\templates\be\index.html:282
+msgid "CARD_3_TEXT"
+msgstr ""
+"Lorem ipsum dolor sit amet consectetur adipiscing elit. Vestibulum ac "
+"vehicula leo"
+
+#: .\templates\be\index.html:297
+msgid "CARD_1"
+msgstr "Lorem ispum"
+
+#: .\templates\be\index.html:298
+msgid "CARD_1_TEXT"
+msgstr ""
+"Lorem ipsum dolor sit amet consectetur adipiscing elit. Vestibulum ac "
+"vehicula leo"
+
+#: .\templates\be\index.html:313
+msgid "CARD_2"
+msgstr "Lorem Ispum"
+
+#: .\templates\be\index.html:314
+msgid "CARD_2_TEXT"
+msgstr ""
+"Lorem ipsum dolor sit amet consectetur adipiscing elit. Vestibulum ac "
+"vehicula leo"
+
+#: .\templates\be\index.html:328
 msgid "SUCCESS"
 msgstr "BIZNESDAGI MUVAFFAQIYATLARIMIZ"
 
-#: .\templates\be\index.html:323
+#: .\templates\be\index.html:334
 msgid "WORKK"
 msgstr "Biznes Loyihalar"
 
-#: .\templates\be\index.html:328
+#: .\templates\be\index.html:339
 msgid "CUSTOMER"
 msgstr "Mijozlar"
 
-#: .\templates\be\index.html:333
+#: .\templates\be\index.html:344
 msgid "INTERNATIONAL_WORKS"
 msgstr "Xalqaro Loyihalar"
 
-#: .\templates\be\index.html:338
+#: .\templates\be\index.html:349
 msgid "INCOME"
 msgstr "Yillik Daromad"
 
-#: .\templates\be\index.html:368
+#: .\templates\be\index.html:360
+msgid "GALLERY"
+msgstr "Galareya"
+
+#: .\templates\be\index.html:391
 msgid "CONTACT_TEXT"
 msgstr "Biz sizga yordam berishdan xursandmiz."
 
-#: .\templates\be\index.html:379 .\templates\be\qabul.html:33
+#: .\templates\be\index.html:402 .\templates\be\qabul.html:34
 msgid "USER_NAME"
 msgstr "Ism"
 
-#: .\templates\be\index.html:385 .\templates\be\qabul.html:36
+#: .\templates\be\index.html:408 .\templates\be\qabul.html:37
 msgid "USER_EMAIL"
 msgstr "Email"
 
-#: .\templates\be\index.html:392 .\templates\be\qabul.html:43
+#: .\templates\be\index.html:415 .\templates\be\qabul.html:44
 msgid "USER_MESSAGE"
 msgstr "Xabar"
 
-#: .\templates\be\index.html:397 .\templates\be\qabul.html:46
+#: .\templates\be\index.html:420 .\templates\be\qabul.html:47
 msgid "SEND"
 msgstr "Jo'natish"
 
-#: .\templates\be\qabul.html:24
+#: .\templates\be\qabul.html:25
 msgid "BACK"
 msgstr "Ortga"
 
-#: .\templates\be\qabul.html:25
+#: .\templates\be\qabul.html:26
 msgid "REG"
 msgstr "Qabulga yozilish!"
 
-#: .\templates\be\qabul.html:27
+#: .\templates\be\qabul.html:28
 msgid "ABOUT_ME"
 msgstr ""
 "Ilxom Begimqulov hozirgi kunda beshdan ortiq o'zining bizneslariga ega 200 "
-"dan ortiq xodimni ish bilan olgan. Siz biznes boshlamoqchimisiz yoki boshlab "
-"qoygan biznesinggizni qanday qilib rivojlantirish haqida maslahat va "
+"dan ortiq xodimni ish bilan ta'minlangan. Siz biznes boshlamoqchimisiz yoki "
+"boshlab qoygan biznesinggizni qanday qilib rivojlantirish haqida maslahat va "
 "tajribalar olmoqchimiz unda biznesmen Ilxom Begimqulovdan master class "
 "olishinggizni tafsiya etamiz."
 
-#: .\templates\be\qabul.html:34
+#: .\templates\be\qabul.html:35
 msgid "USER_SURNAME"
 msgstr "Familya"
 
-#: .\templates\be\qabul.html:35
+#: .\templates\be\qabul.html:36
 msgid "USER_PHONE"
 msgstr "Telefon"
-

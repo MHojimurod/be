@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-24 11:04+0500\n"
+"POT-Creation-Date: 2022-01-26 16:39+0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -32,42 +32,42 @@ msgstr ""
 msgid "English"
 msgstr ""
 
-#: .\templates\be\index.html:51
+#: .\templates\be\index.html:61
 msgid "Home"
 msgstr "Главный"
 
-#: .\templates\be\index.html:54
+#: .\templates\be\index.html:64
 msgid "About"
 msgstr "О нас"
 
-#: .\templates\be\index.html:57
+#: .\templates\be\index.html:67
 msgid "Service"
 msgstr "Работать"
 
-#: .\templates\be\index.html:60
+#: .\templates\be\index.html:70
 msgid "EXTRA_NAV"
 msgstr "Галарея"
 
-#: .\templates\be\index.html:63 .\templates\be\index.html:367
+#: .\templates\be\index.html:73 .\templates\be\index.html:390
 msgid "Contact"
 msgstr "Контакт"
 
-#: .\templates\be\index.html:102 .\templates\be\index.html:118
+#: .\templates\be\index.html:112 .\templates\be\index.html:128
 msgid "name"
 msgstr "Ильхом Бегимкулов"
 
-#: .\templates\be\index.html:103
+#: .\templates\be\index.html:113
 msgid "Head_Text"
 msgstr ""
 "Если молодой бизнесмен хочет знать о своем жизненном пути, своих связях в "
 "бизнесе и допущенных им ошибках. Если вы хотите узнать об ошибках и "
 "недостатках открытия бизнеса, мы ждем вас."
 
-#: .\templates\be\index.html:104
+#: .\templates\be\index.html:114
 msgid "Register"
 msgstr "Регистрация"
 
-#: .\templates\be\index.html:121
+#: .\templates\be\index.html:131
 msgid "AUTOBIOGRAPHY"
 msgstr ""
 "Ильхом Бегимкулов родился 10 октября 1987 года в Бекабадском районе "
@@ -82,159 +82,170 @@ msgstr ""
 "Ильхом Бегимкулов работает директором компании. Между тем молодой бизнесмен "
 "запустил более 10 бизнес-проектов, в нем работает более 200 человек."
 
-#: .\templates\be\index.html:135
+#: .\templates\be\index.html:145
 msgid "TEACHERS"
 msgstr "Бизнес-тренеры"
 
-#: .\templates\be\index.html:136
+#: .\templates\be\index.html:146
 msgid "TEACHERS_TEXT"
 msgstr "Узбекистан - один из самых известных бизнесменов Центральной Азии."
 
-#: .\templates\be\index.html:141
+#: .\templates\be\index.html:151
 msgid "NAME_1"
 msgstr "Саидмурод Давлатов"
 
-#: .\templates\be\index.html:142
+#: .\templates\be\index.html:152
 msgid "NAME_1_TEXT"
 msgstr "Бизнес-тренер"
 
-#: .\templates\be\index.html:154
+#: .\templates\be\index.html:164
 msgid "NAME_2"
 msgstr "Ибрагим Гулямов"
 
-#: .\templates\be\index.html:155
+#: .\templates\be\index.html:165
 msgid "NAME_2_TEXT"
 msgstr "Бизнес партнер"
 
-#: .\templates\be\index.html:167
+#: .\templates\be\index.html:177
 msgid "NAME_3"
 msgstr "Акбар Авезов"
 
-#: .\templates\be\index.html:168
+#: .\templates\be\index.html:178
 msgid "NAME_3_TEXT"
 msgstr "Бизнес партнер"
 
-#: .\templates\be\index.html:180
+#: .\templates\be\index.html:190
 msgid "NAME_4"
 msgstr "Name 4"
 
-#: .\templates\be\index.html:181
+#: .\templates\be\index.html:191
 msgid "NAME_4_TEXT"
 msgstr "name 4 text"
 
-#: .\templates\be\index.html:199
+#: .\templates\be\index.html:209
 msgid "OUR_WORKS"
 msgstr "НАШИ ПРОЕКТЫ"
 
-#: .\templates\be\index.html:200
+#: .\templates\be\index.html:210
 msgid "WORK_TEXT"
 msgstr "Результаты наших достижений как бизнесмена на данный момент."
 
-#: .\templates\be\index.html:209
+#: .\templates\be\index.html:219
 msgid "WORK_1"
 msgstr ""
 "Компания Asia Consult будет работать с 2018 года! К 2021 году нам повезло, "
 "что более 10 000 абитуриентов стали студентами!"
 
-#: .\templates\be\index.html:210 .\templates\be\index.html:221
-#: .\templates\be\index.html:232
+#: .\templates\be\index.html:220 .\templates\be\index.html:231
+#: .\templates\be\index.html:242
 msgid "MORE"
 msgstr "ЧИТАТЬ ДАЛЕЕ"
 
-#: .\templates\be\index.html:220
+#: .\templates\be\index.html:230
 msgid "WORK_2"
 msgstr ""
 "Zetline group - дает вам предложения, которые вам никто не может дать. С "
 "вами есть возможность освоить новую профессию современных профессий за месяц."
 
-#: .\templates\be\index.html:231
+#: .\templates\be\index.html:241
 msgid "WORK_3"
 msgstr ""
 "Work and Travel - отличная возможность для студентов! У них есть возможность "
 "работать и путешествовать во время летних каникул! Разрешено для студентов "
 "старше 18 лет!"
 
-#: .\templates\be\index.html:254
-msgid "CARD_1"
-msgstr "Lorem ispum"
-
-#: .\templates\be\index.html:255
-msgid "CARD_1_TEXT"
-msgstr "Lorem ipsum dolor sit amet consectetur adipiscing elit. Vestibulum ac vehicula leo"
-
-#: .\templates\be\index.html:270
-msgid "CARD_2"
-msgstr "Lorem ispum"
-
-#: .\templates\be\index.html:271
-msgid "CARD_2_TEXT"
-msgstr "Lorem ipsum dolor sit amet consectetur adipiscing elit. Vestibulum ac vehicula leo"
-
-#: .\templates\be\index.html:286
-msgid "CARD_3"
-msgstr "EDUGATWEY"
-
-#: .\templates\be\index.html:287
-msgid "CARD_3_TEXT"
-msgstr "Lorem ipsum dolor sit amet consectetur adipiscing elit. Vestibulum ac vehicula leo"
-
-#: .\templates\be\index.html:302
+#: .\templates\be\index.html:264
 msgid "CARD_4"
 msgstr "Bitrix 24"
 
-#: .\templates\be\index.html:303
+#: .\templates\be\index.html:265
 msgid "CARD_4_TEXT"
-msgstr "UGP Group - проект Битрикс 24, используемый для автоматизации этого бизнеса."
+msgstr ""
+"UGP Group - проект Битрикс 24, используемый для автоматизации этого бизнеса."
 
-#: .\templates\be\index.html:317
+#: .\templates\be\index.html:281
+msgid "CARD_3"
+msgstr "EDUGATWEY"
+
+#: .\templates\be\index.html:282
+msgid "CARD_3_TEXT"
+msgstr ""
+"Lorem ipsum dolor sit amet consectetur adipiscing elit. Vestibulum ac "
+"vehicula leo"
+
+#: .\templates\be\index.html:297
+msgid "CARD_1"
+msgstr "Lorem ispum"
+
+#: .\templates\be\index.html:298
+msgid "CARD_1_TEXT"
+msgstr ""
+"Lorem ipsum dolor sit amet consectetur adipiscing elit. Vestibulum ac "
+"vehicula leo"
+
+#: .\templates\be\index.html:313
+msgid "CARD_2"
+msgstr "Lorem ispum"
+
+#: .\templates\be\index.html:314
+msgid "CARD_2_TEXT"
+msgstr ""
+"Lorem ipsum dolor sit amet consectetur adipiscing elit. Vestibulum ac "
+"vehicula leo"
+
+#: .\templates\be\index.html:328
 msgid "SUCCESS"
 msgstr "НАШ УСПЕХ В БИЗНЕСЕ"
 
-#: .\templates\be\index.html:323
+#: .\templates\be\index.html:334
 msgid "WORKK"
 msgstr "Бизнес проекты"
 
-#: .\templates\be\index.html:328
+#: .\templates\be\index.html:339
 msgid "CUSTOMER"
 msgstr "Клиенты"
 
-#: .\templates\be\index.html:333
+#: .\templates\be\index.html:344
 msgid "INTERNATIONAL_WORKS"
 msgstr "Международные проекты"
 
-#: .\templates\be\index.html:338
+#: .\templates\be\index.html:349
 msgid "INCOME"
 msgstr "Годовой доход"
 
-#: .\templates\be\index.html:368
+#: .\templates\be\index.html:360
+msgid "GALLERY"
+msgstr "Галерея"
+
+#: .\templates\be\index.html:391
 msgid "CONTACT_TEXT"
 msgstr "Мы рады Вам помочь."
 
-#: .\templates\be\index.html:379 .\templates\be\qabul.html:33
+#: .\templates\be\index.html:402 .\templates\be\qabul.html:34
 msgid "USER_NAME"
 msgstr "Имя"
 
-#: .\templates\be\index.html:385 .\templates\be\qabul.html:36
+#: .\templates\be\index.html:408 .\templates\be\qabul.html:37
 msgid "USER_EMAIL"
 msgstr "Эл. адрес"
 
-#: .\templates\be\index.html:392 .\templates\be\qabul.html:43
+#: .\templates\be\index.html:415 .\templates\be\qabul.html:44
 msgid "USER_MESSAGE"
 msgstr "Сообщение"
 
-#: .\templates\be\index.html:397 .\templates\be\qabul.html:46
+#: .\templates\be\index.html:420 .\templates\be\qabul.html:47
 msgid "SEND"
 msgstr "Отправлять"
 
-#: .\templates\be\qabul.html:24
+#: .\templates\be\qabul.html:25
 msgid "BACK"
 msgstr "Назад"
 
-#: .\templates\be\qabul.html:25
+#: .\templates\be\qabul.html:26
 msgid "REG"
 msgstr "Запишитесь на прием!"
 
-#: .\templates\be\qabul.html:27
+#: .\templates\be\qabul.html:28
 msgid "ABOUT_ME"
 msgstr ""
 "В Ильхоме Бегимкулове сейчас работает более 200 человек, которым принадлежит "
@@ -242,11 +253,10 @@ msgstr ""
 "совет и опыт, как развивать начатый бизнес, рекомендуем пройти мастер-класс "
 "у бизнесмена Ильхома Бегимкулова."
 
-#: .\templates\be\qabul.html:34
+#: .\templates\be\qabul.html:35
 msgid "USER_SURNAME"
 msgstr "Фамилия"
 
-#: .\templates\be\qabul.html:35
+#: .\templates\be\qabul.html:36
 msgid "USER_PHONE"
 msgstr "Телефон"
-
