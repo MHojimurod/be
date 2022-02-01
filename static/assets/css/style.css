@@ -576,8 +576,7 @@ option {
 /*----------- contact ------------*/
 
 #contact {
-  background: url("../img/contact-bg.JPG") no-repeat scroll center center /
-    cover;
+  background: url("../img/contact-bg.JPG") no-repeat scroll center center cover;
   color: #fff;
   overflow: hidden;
   padding: 100px 0;
@@ -897,6 +896,7 @@ option {
   }
   .about__video {
     height: 420px;
+    margin-top: -10px !important;
   }
 }
 
@@ -947,7 +947,11 @@ option {
   .for-box-crecl {
     left: 43%;
   }
-
+  
+  .header__right h1{
+    width: 200px !important;
+    margin-bottom: 3rem;
+  }
   .affix {
     height: 50px;
   }
